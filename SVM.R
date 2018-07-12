@@ -4,7 +4,7 @@ library(readr)
 library(e1071)
 library(dplyr)
 library(caret)
-df<- read.csv("fmovie-pang02.csv", stringsAsFactors = FALSE)
+df<- read.csv(file.choose(), stringsAsFactors = FALSE)
 #set.seed(1)
 df <- df[sample(nrow(df)), ]
 df <- df[sample(nrow(df)), ]
