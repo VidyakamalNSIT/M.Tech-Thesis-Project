@@ -1,5 +1,6 @@
-# M.Tech-Thesis-Project
-## Its my thesis project on Sentiment analysis on political speeches for fulfillment of M.Tech 
+# M.Tech Thesis
+
+## Sentiment Analysis on Political Speeches And its Impact on Indian Politics  
 
 
 This thesis project addresses the problem of sentiment analysis of political speeches
